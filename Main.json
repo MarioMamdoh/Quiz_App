@@ -1,0 +1,1082 @@
+[
+  {
+      "title": "HTML",
+      "question": "What does HTML stand for?",
+      "answer-1": "Hyper Text Markup Language",
+      "answer-2": "Hyperlinks and Text Markup Language",
+      "answer-3": "Home Tool Markup Language",
+      "answer-4": "Hyperlinking Text Mark Language",
+      "right-answer": "Hyper Text Markup Language"
+  },
+  {
+      "title": "HTML",
+      "question": "Who is making the Web standards?",
+      "answer-1": "Google",
+      "answer-2": "Mozilla",
+      "answer-3": "Microsoft",
+      "answer-4": "The World Wide Web Consortium",
+      "right-answer": "The World Wide Web Consortium"
+  },
+  {
+      "title": "HTML",
+      "question": "Choose the correct HTML element for the largest heading:",
+      "answer-1": "&lt;heading&gt;",
+      "answer-2": "&lt;h1&gt;",
+      "answer-3": "&lt;h6&gt;",
+      "answer-4": "&lt;head&gt;",
+      "right-answer": "&lt;h1&gt;"
+  },
+  {
+      "title": "HTML",
+      "question": "What is the correct HTML element for inserting a line break?",
+      "answer-1": "&lt;lb&gt;",
+      "answer-2": "&lt;br&gt;",
+      "answer-3": "&lt;break&gt;",
+      "answer-4": "&lt;line&gt;",
+      "right-answer": "&lt;br&gt;"
+  },
+  {
+      "title": "HTML",
+      "question": "What is the correct HTML for adding a background color?",
+      "answer-1": "&lt;body bg='yellow'&gt;",
+      "answer-2": "&lt;body style='background-color:yellow;'&gt;",
+      "answer-3": "&lt;background&gt;yellow&lt;/background&gt;",
+      "answer-4": "&lt;body bgcolor='yellow'&gt;",
+      "right-answer": "&lt;body style='background-color:yellow;'&gt;"
+  },
+  {
+      "title": "HTML",
+      "question": "Choose the correct HTML element to define important text",
+      "answer-1": "&lt;i&gt;",
+      "answer-2": "&lt;important&gt;",
+      "answer-3": "&lt;strong&gt;",
+      "answer-4": "&lt;b&gt;",
+      "right-answer": "&lt;strong&gt;"
+  },
+  {
+      "title": "HTML",
+      "question": "Choose the correct HTML element to define emphasized text:",
+      "answer-1": "&lt;i&gt;",
+      "answer-2": "&lt;em&gt;",
+      "answer-3": "&lt;italic&gt;",
+      "answer-4": "&lt;strong&gt;",
+      "right-answer": "&lt;em&gt;"
+  },
+  {
+      "title": "HTML",
+      "question": "What is the correct HTML for creating a hyperlink?",
+      "answer-1": "&lt;a&gt;http://www.example.com&lt;/a&gt;",
+      "answer-2": "&lt;a url='http://www.example.com'&gt;Example&lt;/a&gt;",
+      "answer-3": "&lt;a href='http://www.example.com'&gt;Example&lt;/a&gt;",
+      "answer-4": "&lt;a name='http://www.example.com'&gt;Example&lt;/a&gt;",
+      "right-answer": "&lt;a href='http://www.example.com'&gt;Example&lt;/a&gt;"
+  },
+  {
+      "title": "HTML",
+      "question": "Which character is used to indicate an end tag?",
+      "answer-1": "*",
+      "answer-2": "/",
+      "answer-3": "&lt;",
+      "answer-4": "^",
+      "right-answer": "/"
+  },
+  {
+      "title": "HTML",
+      "question": "How can you make a numbered list?",
+      "answer-1": "&lt;ul&gt;",
+      "answer-2": "&lt;dl&gt;",
+      "answer-3": "&lt;ol&gt;",
+      "answer-4": "&lt;list&gt;",
+      "right-answer": "&lt;ol&gt;"
+  },
+  {
+      "title": "HTML",
+      "question": "How can you make a bulleted list?",
+      "answer-1": "&lt;ul&gt;",
+      "answer-2": "&lt;ol&gt;",
+      "answer-3": "&lt;dl&gt;",
+      "answer-4": "&lt;list&gt;",
+      "right-answer": "&lt;ul&gt;"
+  },
+  {
+      "title": "HTML",
+      "question": "What is the correct HTML for making a checkbox?",
+      "answer-1": "&lt;checkbox&gt;",
+      "answer-2": "&lt;input type='checkbox'&gt;",
+      "answer-3": "&lt;check&gt;",
+      "answer-4": "&lt;input type='check'&gt;",
+      "right-answer": "&lt;input type='checkbox'&gt;"
+  },
+  {
+      "title": "HTML",
+      "question": "What is the correct HTML for making a text input field?",
+      "answer-1": "&lt;input type='textfield'&gt;",
+      "answer-2": "&lt;input type='text'&gt;",
+      "answer-3": "&lt;input type='textbox'&gt;",
+      "answer-4": "&lt;textinput&gt;",
+      "right-answer": "&lt;input type='text'&gt;"
+  },
+  {
+      "title": "HTML",
+      "question": "What is the correct HTML for inserting an image?",
+      "answer-1": "&lt;img href='image.gif' alt='MyImage'&gt;",
+      "answer-2": "&lt;image src='image.gif' alt='MyImage'&gt;",
+      "answer-3": "&lt;img src='image.gif' alt='MyImage'&gt;",
+      "answer-4": "&lt;img alt='MyImage'&gt;image.gif&lt;/img&gt;",
+      "right-answer": "&lt;img src='image.gif' alt='MyImage'&gt;"
+  },
+  {
+      "title": "HTML",
+      "question": "What is the correct HTML for creating a drop-down list?",
+      "answer-1": "&lt;input type='dropdown'&gt;",
+      "answer-2": "&lt;select&gt;",
+      "answer-3": "&lt;list&gt;",
+      "answer-4": "&lt;input type='list'&gt;",
+      "right-answer": "&lt;select&gt;"
+  },
+  {
+      "title": "HTML",
+      "question": "What is the correct HTML for making a text area?",
+      "answer-1": "&lt;textarea&gt;",
+      "answer-2": "&lt;input type='textarea'&gt;",
+      "answer-3": "&lt;input type='textbox'&gt;",
+      "answer-4": "&lt;text area&gt;",
+      "right-answer": "&lt;textarea&gt;"
+  },
+  {
+      "title": "HTML",
+      "question": "What is the correct HTML for inserting a background image?",
+      "answer-1": "&lt;body bg='background.gif'&gt;",
+      "answer-2": "&lt;body style='background-image:url(background.gif)'&gt;",
+      "answer-3": "&lt;background img='background.gif'&gt;",
+      "answer-4": "&lt;img background='background.gif'&gt;",
+      "right-answer": "&lt;body style='background-image:url(background.gif)'&gt;"
+  },
+  {
+      "title": "HTML",
+      "question": "Choose the correct HTML element to define the title of a document:",
+      "answer-1": "&lt;meta&gt;",
+      "answer-2": "&lt;title&gt;",
+      "answer-3": "&lt;head&gt;",
+      "answer-4": "&lt;style&gt;",
+      "right-answer": "&lt;title&gt;"
+  },
+  {
+      "title": "HTML",
+      "question": "Which HTML element is used to specify a footer for a document or section?",
+      "answer-1": "&lt;bottom&gt;",
+      "answer-2": "&lt;footer&gt;",
+      "answer-3": "&lt;section&gt;",
+      "answer-4": "&lt;end&gt;",
+      "right-answer": "&lt;footer&gt;"
+  },
+  {
+      "title": "HTML",
+      "question": "What is the correct HTML element for playing video files?",
+      "answer-1": "&lt;movie&gt;",
+      "answer-2": "&lt;video&gt;",
+      "answer-3": "&lt;media&gt;",
+      "answer-4": "&lt;film&gt;",
+      "right-answer": "&lt;video&gt;"
+  },
+  {
+      "title": "HTML",
+      "question": "Which HTML attribute specifies an alternate text for an image, if the image cannot be displayed?",
+      "answer-1": "title",
+      "answer-2": "src",
+      "answer-3": "alt",
+      "answer-4": "longdesc",
+      "right-answer": "alt"
+  },
+  {
+      "title": "HTML",
+      "question": "Which doctype is correct for HTML5?",
+      "answer-1": "&lt;!DOCTYPE html&gt;",
+      "answer-2": "&lt;!DOCTYPE HTML5&gt;",
+      "answer-3": "&lt;!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 5.0//EN'&gt;",
+      "answer-4": "&lt;!DOCTYPE HTML SYSTEM 'about:legacy-compat'&gt;",
+      "right-answer": "&lt;!DOCTYPE html&gt;"
+  },
+  {
+      "title": "HTML",
+      "question": "Which HTML element is used to define navigation links?",
+      "answer-1": "&lt;nav&gt;",
+      "answer-2": "&lt;navigate&gt;",
+      "answer-3": "&lt;navigation&gt;",
+      "answer-4": "&lt;navlinks&gt;",
+      "right-answer": "&lt;nav&gt;"
+  },
+  {
+      "title": "HTML",
+      "question": "In HTML, which attribute is used to specify that an input field must be filled out?",
+      "answer-1": "validate",
+      "answer-2": "formvalidate",
+      "answer-3": "placeholder",
+      "answer-4": "required",
+      "right-answer": "required"
+  },
+  {
+      "title": "HTML",
+      "question": "Which HTML element is used to specify a header for a document or section?",
+      "answer-1": "&lt;header&gt;",
+      "answer-2": "&lt;head&gt;",
+      "answer-3": "&lt;top&gt;",
+      "answer-4": "&lt;section&gt;",
+      "right-answer": "&lt;header&gt;"
+  },
+  {
+      "title": "HTML",
+      "question": "What is the correct HTML element for playing audio files?",
+      "answer-1": "&lt;sound&gt;",
+      "answer-2": "&lt;audio&gt;",
+      "answer-3": "&lt;music&gt;",
+      "answer-4": "&lt;mp3&gt;",
+      "right-answer": "&lt;audio&gt;"
+  },
+  {
+      "title": "HTML",
+      "question": "Which HTML element is used to specify a main content area in a document?",
+      "answer-1": "&lt;main&gt;",
+      "answer-2": "&lt;content&gt;",
+      "answer-3": "&lt;maincontent&gt;",
+      "answer-4": "&lt;primary&gt;",
+      "right-answer": "&lt;main&gt;"
+  },
+  {
+      "title": "HTML",
+      "question": "Which HTML element is used to specify a sidebar?",
+      "answer-1": "&lt;side&gt;",
+      "answer-2": "&lt;aside&gt;",
+      "answer-3": "&lt;sidebar&gt;",
+      "answer-4": "&lt;section&gt;",
+      "right-answer": "&lt;aside&gt;"
+  },
+  {
+      "title": "HTML",
+      "question": "Which HTML element is used to specify a quotation?",
+      "answer-1": "&lt;quote&gt;",
+      "answer-2": "&lt;blockquote&gt;",
+      "answer-3": "&lt;quotation&gt;",
+      "answer-4": "&lt;q&gt;",
+      "right-answer": "&lt;blockquote&gt;"
+  },
+  {
+      "title": "HTML",
+      "question": "Which HTML element is used to specify a short inline quotation?",
+      "answer-1": "&lt;quote&gt;",
+      "answer-2": "&lt;q&gt;",
+      "answer-3": "&lt;shortquote&gt;",
+      "answer-4": "&lt;quotation&gt;",
+      "right-answer": "&lt;q&gt;"
+  },
+  {
+      "title": "HTML",
+      "question": "Which HTML attribute is used to define inline styles?",
+      "answer-1": "styles",
+      "answer-2": "class",
+      "answer-3": "style",
+      "answer-4": "css",
+      "right-answer": "style"
+  },
+  {
+      "title": "HTML",
+      "question": "Which HTML attribute is used to define internal styles?",
+      "answer-1": "&lt;style&gt;",
+      "answer-2": "&lt;link&gt;",
+      "answer-3": "&lt;stylesheet&gt;",
+      "answer-4": "&lt;css&gt;",
+      "right-answer": "&lt;style&gt;"
+  },
+  {
+      "title": "HTML",
+      "question": "Which HTML element is used to define a table?",
+      "answer-1": "&lt;table&gt;",
+      "answer-2": "&lt;tbl&gt;",
+      "answer-3": "&lt;t&gt;",
+      "answer-4": "&lt;data&gt;",
+      "right-answer": "&lt;table&gt;"
+  },
+  {
+      "title": "HTML",
+      "question": "Which HTML element is used to define a table row?",
+      "answer-1": "&lt;tr&gt;",
+      "answer-2": "&lt;row&gt;",
+      "answer-3": "&lt;tablerow&gt;",
+      "answer-4": "&lt;trow&gt;",
+      "right-answer": "&lt;tr&gt;"
+  },
+  {
+      "title": "HTML",
+      "question": "Which HTML element is used to define a table cell?",
+      "answer-1": "&lt;td&gt;",
+      "answer-2": "&lt;cell&gt;",
+      "answer-3": "&lt;tablecell&gt;",
+      "answer-4": "&lt;tcell&gt;",
+      "right-answer": "&lt;td&gt;"
+  },
+  {
+      "title": "HTML",
+      "question": "Which HTML element is used to define a table header?",
+      "answer-1": "&lt;th&gt;",
+      "answer-2": "&lt;thead&gt;",
+      "answer-3": "&lt;header&gt;",
+      "answer-4": "&lt;theader&gt;",
+      "right-answer": "&lt;th&gt;"
+  },
+  {
+      "title": "HTML",
+      "question": "Which HTML element is used to define a table body?",
+      "answer-1": "&lt;tbody&gt;",
+      "answer-2": "&lt;body&gt;",
+      "answer-3": "&lt;tablebody&gt;",
+      "answer-4": "&lt;tgroup&gt;",
+      "right-answer": "&lt;tbody&gt;"
+  },
+  {
+      "title": "HTML",
+      "question": "Which HTML element is used to define a table footer?",
+      "answer-1": "&lt;tfoot&gt;",
+      "answer-2": "&lt;footer&gt;",
+      "answer-3": "&lt;tablefooter&gt;",
+      "answer-4": "&lt;tfootgroup&gt;",
+      "right-answer": "&lt;tfoot&gt;"
+  },
+  {
+      "title": "HTML",
+      "question": "Which HTML element is used to define a table caption?",
+      "answer-1": "&lt;caption&gt;",
+      "answer-2": "&lt;title&gt;",
+      "answer-3": "&lt;header&gt;",
+      "answer-4": "&lt;cap&gt;",
+      "right-answer": "&lt;caption&gt;"
+  },
+  {
+      "title": "HTML",
+      "question": "Which HTML element is used to define a figure caption?",
+      "answer-1": "&lt;figcaption&gt;",
+      "answer-2": "&lt;figuretitle&gt;",
+      "answer-3": "&lt;figtitle&gt;",
+      "answer-4": "&lt;caption&gt;",
+      "right-answer": "&lt;figcaption&gt;"
+  },
+  {
+    "title": "CSS",
+    "question": "What does CSS stand for?",
+    "answer-1": "Cascading Style Sheets",
+      "answer-2": "Computer Style Sheets",
+      "answer-3": "Creative Style Sheets",
+      "answer-4": "Colorful Style Sheets",
+      "right-answer": "Cascading Style Sheets"
+  },
+  {
+      "title": "CSS",
+      "question": "Where in an HTML document is the correct place to refer to an external style sheet?",
+      "answer-1": "At the end of the document",
+      "answer-2": "In the &lt;head&gt; section",
+      "answer-3": "In the &lt;body&gt; section",
+      "answer-4": "Before the &lt;html&gt; tag",
+      "right-answer": "In the &lt;head&gt; section"
+  },
+  {
+      "title": "CSS",
+      "question": "Which HTML tag is used to define an internal style sheet?",
+      "answer-1": "&lt;css&gt;",
+      "answer-2": "&lt;style&gt;",
+      "answer-3": "&lt;script&gt;",
+      "answer-4": "&lt;link&gt;",
+      "right-answer": "&lt;style&gt;"
+  },
+  {
+      "title": "CSS",
+      "question": "Which is the correct CSS syntax?",
+      "answer-1": "body {color: black;}",
+      "answer-2": "{body: color=black;}",
+      "answer-3": "{body; color:black;}",
+      "answer-4": "body:color=black;",
+      "right-answer": "body {color: black;}"
+  },
+  {
+      "title": "CSS",
+      "question": "How do you insert a comment in a CSS file?",
+      "answer-1": "// this is a comment",
+      "answer-2": "/* this is a comment */",
+      "answer-3": "&lt;!-- this is a comment --&gt;",
+      "answer-4": "' this is a comment",
+      "right-answer": "/* this is a comment */"
+  },
+  {
+      "title": "CSS",
+      "question": "Which property is used to change the background color?",
+      "answer-1": "bgcolor",
+      "answer-2": "color",
+      "answer-3": "background-color",
+      "answer-4": "backcolor",
+      "right-answer": "background-color"
+  },
+  {
+      "title": "CSS",
+      "question": "How do you add a background color for all &lt;h1&gt; elements?",
+      "answer-1": "h1.all {background-color:#FFFFFF;}",
+      "answer-2": "all.h1 {background-color:#FFFFFF;}",
+      "answer-3": "h1 {background-color:#FFFFFF;}",
+      "answer-4": "h1 {bgcolor:#FFFFFF;}",
+      "right-answer": "h1 {background-color:#FFFFFF;}"
+  },
+  {
+      "title": "CSS",
+      "question": "Which CSS property is used to change the text color of an element?",
+      "answer-1": "text-color",
+      "answer-2": "fgcolor",
+      "answer-3": "color",
+      "answer-4": "font-color",
+      "right-answer": "color"
+  },
+  {
+      "title": "CSS",
+      "question": "Which CSS property controls the text size?",
+      "answer-1": "text-size",
+      "answer-2": "font-size",
+      "answer-3": "text-style",
+      "answer-4": "font-style",
+      "right-answer": "font-size"
+  },
+  {
+      "title": "CSS",
+      "question": "What is the correct CSS syntax for making all the &lt;p&gt; elements bold?",
+      "answer-1": "&lt;p style=\"text-size:bold;\"&gt;",
+      "answer-2": "&lt;p style=\"font-size:bold;\"&gt;",
+      "answer-3": "p {text-size:bold;}",
+      "answer-4": "p {font-weight:bold;}",
+      "right-answer": "p {font-weight:bold;}"
+  },
+  {
+      "title": "CSS",
+      "question": "How do you display hyperlinks without an underline?",
+      "answer-1": "a {text-decoration:none;}",
+      "answer-2": "a {underline:none;}",
+      "answer-3": "a {decoration:no-underline;}",
+      "answer-4": "a {font-decoration:none;}",
+      "right-answer": "a {text-decoration:none;}"
+  },
+  {
+      "title": "CSS",
+      "question": "How do you make each word in a text start with a capital letter?",
+      "answer-1": "text-transform:capitalize",
+      "answer-2": "text-style:capitalize",
+      "answer-3": "transform:capitalize",
+      "answer-4": "font-transform:capitalize",
+      "right-answer": "text-transform:capitalize"
+  },
+  {
+      "title": "CSS",
+      "question": "Which property is used to change the font of an element?",
+      "answer-1": "font-family",
+      "answer-2": "font-style",
+      "answer-3": "font-weight",
+      "answer-4": "font-size",
+      "right-answer": "font-family"
+  },
+  {
+      "title": "CSS",
+      "question": "How do you make the text bold?",
+      "answer-1": "font-weight:bold;",
+      "answer-2": "font:bold;",
+      "answer-3": "font-style:bold;",
+      "answer-4": "style:bold;",
+      "right-answer": "font-weight:bold;"
+  },
+  {
+      "title": "CSS",
+      "question": "Which property is used to change the left margin of an element?",
+      "answer-1": "indent",
+      "answer-2": "margin-left",
+      "answer-3": "padding-left",
+      "answer-4": "margin",
+      "right-answer": "margin-left"
+  },
+  {
+      "title": "CSS",
+      "question": "How do you select an element with id \"demo\"?",
+      "answer-1": "demo",
+      "answer-2": ".demo",
+      "answer-3": "#demo",
+      "answer-4": "*demo",
+      "right-answer": "#demo"
+  },
+  {
+      "title": "CSS",
+      "question": "How do you select elements with class name \"test\"?",
+      "answer-1": "test",
+      "answer-2": ".test",
+      "answer-3": "#test",
+      "answer-4": "*test",
+      "right-answer": ".test"
+  },
+  {
+      "title": "CSS",
+      "question": "How do you select all p elements inside a div element?",
+      "answer-1": "div p",
+      "answer-2": "div.p",
+      "answer-3": "div + p",
+      "answer-4": "div p",
+      "right-answer": "div p"
+  },
+  {
+      "title": "CSS",
+      "question": "How do you group selectors?",
+      "answer-1": "h1, h2, h3",
+      "answer-2": "h1 h2 h3",
+      "answer-3": "h1.h2.h3",
+      "answer-4": "h1+h2+h3",
+      "right-answer": "h1, h2, h3"
+  },
+  {
+      "title": "CSS",
+      "question": "What is the default value of the position property?",
+      "answer-1": "relative",
+      "answer-2": "absolute",
+      "answer-3": "fixed",
+      "answer-4": "static",
+      "right-answer": "static"
+  },
+  {
+    "title": "CSS",
+    "question": "Which property is used to change the spacing between lines of text?",
+    "answer-1": "line-height",
+    "answer-2": "spacing",
+    "answer-3": "line-spacing",
+    "answer-4": "text-spacing",
+    "right-answer": "line-height"
+},
+{
+    "title": "CSS",
+    "question": "Which CSS property is used to change the text color of an element?",
+    "answer-1": "fgcolor",
+    "answer-2": "color",
+    "answer-3": "font-color",
+    "answer-4": "text-color",
+    "right-answer": "color"
+},
+{
+    "title": "CSS",
+    "question": "How do you make the text italic?",
+    "answer-1": "font-style:italic;",
+    "answer-2": "font-italic;",
+    "answer-3": "italic;",
+    "answer-4": "font-style:italicize;",
+    "right-answer": "font-style:italic;"
+},
+{
+    "title": "CSS",
+    "question": "Which property is used to change the font of an element?",
+    "answer-1": "font-family",
+    "answer-2": "font-style",
+    "answer-3": "font-weight",
+    "answer-4": "font-size",
+    "right-answer": "font-family"
+},
+{
+    "title": "CSS",
+    "question": "How do you change the font size of an element?",
+    "answer-1": "font-size",
+    "answer-2": "text-size",
+    "answer-3": "font-height",
+    "answer-4": "text-height",
+    "right-answer": "font-size"
+},
+{
+    "title": "CSS",
+    "question": "How do you make the text bold?",
+    "answer-1": "font-weight:bold;",
+    "answer-2": "font:bold;",
+    "answer-3": "font-style:bold;",
+    "answer-4": "style:bold;",
+    "right-answer": "font-weight:bold;"
+},
+{
+    "title": "CSS",
+    "question": "Which property is used to change the left margin of an element?",
+    "answer-1": "margin-left",
+    "answer-2": "padding-left",
+    "answer-3": "indent",
+    "answer-4": "margin",
+    "right-answer": "margin-left"
+},
+{
+    "title": "CSS",
+    "question": "How do you select an element with id \"demo\"?",
+    "answer-1": "#demo",
+    "answer-2": "demo",
+    "answer-3": ".demo",
+    "answer-4": "*demo",
+    "right-answer": "#demo"
+},
+{
+    "title": "CSS",
+    "question": "How do you select elements with class name \"test\"?",
+    "answer-1": ".test",
+    "answer-2": "test",
+    "answer-3": "#test",
+    "answer-4": "*test",
+    "right-answer": ".test"
+},
+{
+    "title": "CSS",
+    "question": "How do you select all p elements inside a div element?",
+    "answer-1": "div p",
+    "answer-2": "div.p",
+    "answer-3": "div + p",
+    "answer-4": "div p",
+    "right-answer": "div p"
+},
+{
+    "title": "CSS",
+    "question": "How do you group selectors?",
+    "answer-1": "h1, h2, h3",
+    "answer-2": "h1 h2 h3",
+    "answer-3": "h1.h2.h3",
+    "answer-4": "h1+h2+h3",
+    "right-answer": "h1, h2, h3"
+},
+{
+    "title": "CSS",
+    "question": "What is the default value of the position property?",
+    "answer-1": "static",
+    "answer-2": "relative",
+    "answer-3": "absolute",
+    "answer-4": "fixed",
+    "right-answer": "static"
+},
+{
+    "title": "CSS",
+    "question": "Which property is used to change the spacing between lines of text?",
+    "answer-1": "line-height",
+    "answer-2": "spacing",
+    "answer-3": "line-spacing",
+    "answer-4": "text-spacing",
+    "right-answer": "line-height"
+},
+{
+    "title": "CSS",
+    "question": "Which property is used to change the text color of an element?",
+    "answer-1": "color",
+    "answer-2": "fgcolor",
+    "answer-3": "font-color",
+    "answer-4": "text-color",
+    "right-answer": "color"
+},
+{
+    "title": "CSS",
+    "question": "How do you make the text italic?",
+    "answer-1": "font-style:italic;",
+    "answer-2": "font-italic;",
+    "answer-3": "italic;",
+    "answer-4": "font-style:italicize;",
+    "right-answer": "font-style:italic;"
+},
+{
+    "title": "CSS",
+    "question": "Which property is used to change the font of an element?",
+    "answer-1": "font-family",
+    "answer-2": "font-style",
+    "answer-3": "font-weight",
+    "answer-4": "font-size",
+    "right-answer": "font-family"
+},
+{
+    "title": "CSS",
+    "question": "How do you change the font size of an element?",
+    "answer-1": "font-size",
+    "answer-2": "text-size",
+    "answer-3": "font-height",
+    "answer-4": "text-height",
+    "right-answer": "font-size"
+},
+{
+    "title": "CSS",
+    "question": "How do you make the text bold?",
+    "answer-1": "font-weight:bold;",
+    "answer-2": "font:bold;",
+    "answer-3": "font-style:bold;",
+    "answer-4": "style:bold;",
+    "right-answer": "font-weight:bold;"
+},
+{
+    "title": "CSS",
+    "question": "Which property is used to change the left margin of an element?",
+    "answer-1": "margin-left",
+    "answer-2": "padding-left",
+    "answer-3": "indent",
+    "answer-4": "margin",
+    "right-answer": "margin-left"
+},
+{
+    "title": "CSS",
+    "question": "How do you select an element with id \"demo\"?",
+    "answer-1": "#demo",
+    "answer-2": "demo",
+    "answer-3": ".demo",
+    "answer-4": "*demo",
+    "right-answer": "#demo"
+},
+{
+  "title": "JS",
+  "question": "What is the correct syntax for referring to an external script called 'script.js'?",
+  "answer-1": "&lt;script src='script.js'&gt;",
+  "answer-2": "&lt;script href='script.js'&gt;",
+  "answer-3": "&lt;script ref='script.js'&gt;",
+  "answer-4": "&lt;script file='script.js'&gt;",
+  "right-answer": "&lt;script src='script.js'&gt;"
+},
+{
+  "title": "JS",
+  "question": "Which operator is used to assign a value to a variable?",
+  "answer-1": "==",
+  "answer-2": "=",
+  "answer-3": ":=",
+  "answer-4": "===",
+  "right-answer": "="
+},
+{
+  "title": "JS",
+  "question": "How do you create a function in JavaScript?",
+  "answer-1": "function myFunction()",
+  "answer-2": "create myFunction()",
+  "answer-3": "func myFunction()",
+  "answer-4": "define myFunction()",
+  "right-answer": "function myFunction()"
+},
+{
+  "title": "JS",
+  "question": "What will be the result of the following code? console.log(2 + '2')",
+  "answer-1": "4",
+  "answer-2": "22",
+  "answer-3": "NaN",
+  "answer-4": "undefined",
+  "right-answer": "22"
+},
+{
+  "title": "JS",
+  "question": "Which of the following is a valid way to declare a variable in JavaScript?",
+  "answer-1": "var",
+  "answer-2": "let",
+  "answer-3": "const",
+  "answer-4": "All of the above",
+  "right-answer": "All of the above"
+},
+{
+  "title": "JS",
+  "question": "What is the default value of an uninitialized variable?",
+  "answer-1": "null",
+  "answer-2": "undefined",
+  "answer-3": "0",
+  "answer-4": "false",
+  "right-answer": "undefined"
+},
+{
+  "title": "JS",
+  "question": "Which of the following methods is used to add an element to the end of an array?",
+  "answer-1": "push()",
+  "answer-2": "pop()",
+  "answer-3": "shift()",
+  "answer-4": "unshift()",
+  "right-answer": "push()"
+},
+{
+  "title": "JS",
+  "question": "How can you add a comment in JavaScript?",
+  "answer-1": "&lt;!-- Comment --&gt;",
+  "answer-2": "// Comment",
+  "answer-3": "/* Comment */",
+  "answer-4": "Both B and C",
+  "right-answer": "Both B and C"
+},
+{
+  "title": "JS",
+  "question": "What is the result of typeof NaN in JavaScript?",
+  "answer-1": "number",
+  "answer-2": "NaN",
+  "answer-3": "undefined",
+  "answer-4": "object",
+  "right-answer": "number"
+},
+{
+  "title": "JS",
+  "question": "What does parseInt('10', 2) return?",
+  "answer-1": "2",
+  "answer-2": "10",
+  "answer-3": "16",
+  "answer-4": "8",
+  "right-answer": "8"
+},
+{
+  "title": "JS",
+  "question": "What is the correct way to write an if statement in JavaScript?",
+  "answer-1": "if x &gt; 10 then",
+  "answer-2": "if (x &gt; 10)",
+  "answer-3": "if x &gt; 10",
+  "answer-4": "if (x &gt; 10) then",
+  "right-answer": "if (x &gt; 10)"
+},
+{
+  "title": "JS",
+  "question": "Which event occurs when the user clicks on an HTML element?",
+  "answer-1": "onmouseclick",
+  "answer-2": "onclick",
+  "answer-3": "onmousedown",
+  "answer-4": "onmouseup",
+  "right-answer": "onclick"
+},
+{
+  "title": "JS",
+  "question": "Which of the following methods can be used to convert a string to a number?",
+  "answer-1": "parseInt()",
+  "answer-2": "parseFloat()",
+  "answer-3": "Number()",
+  "answer-4": "All of the above",
+  "right-answer": "All of the above"
+},
+{
+  "title": "JS",
+  "question": "What does isNaN('string') return?",
+  "answer-1": "true",
+  "answer-2": "false",
+  "answer-3": "undefined",
+  "answer-4": "null",
+  "right-answer": "true"
+},
+{
+  "title": "JS",
+  "question": "How do you declare a constant variable in JavaScript?",
+  "answer-1": "var",
+  "answer-2": "let",
+  "answer-3": "const",
+  "answer-4": "static",
+  "right-answer": "const"
+},
+{
+  "title": "JS",
+  "question": "Which method is used to remove the last element from an array?",
+  "answer-1": "pop()",
+  "answer-2": "push()",
+  "answer-3": "shift()",
+  "answer-4": "unshift()",
+  "right-answer": "pop()"
+},
+{
+  "title": "JS",
+  "question": "What will console.log([1] == [1]) output?",
+  "answer-1": "true",
+  "answer-2": "false",
+  "answer-3": "undefined",
+  "answer-4": "NaN",
+  "right-answer": "false"
+},
+{
+  "title": "JS",
+  "question": "Which function is used to execute code after a specified number of milliseconds?",
+  "answer-1": "setInterval()",
+  "answer-2": "setTimeout()",
+  "answer-3": "clearInterval()",
+  "answer-4": "clearTimeout()",
+  "right-answer": "setTimeout()"
+},
+{
+  "title": "JS",
+  "question": "What does document.getElementById('id') return?",
+  "answer-1": "The HTML element with the specified id",
+  "answer-2": "The id attribute value",
+  "answer-3": "The HTML element's class",
+  "answer-4": "The innerHTML of the element",
+  "right-answer": "The HTML element with the specified id"
+},
+{
+  "title": "JS",
+  "question": "What will console.log(0.1 + 0.2 == 0.3) output?",
+  "answer-1": "true",
+  "answer-2": "false",
+  "answer-3": "undefined",
+  "answer-4": "NaN",
+  "right-answer": "false"
+},
+{
+  "title": "JS",
+  "question": "Which method can be used to find the length of an array?",
+  "answer-1": "length()",
+  "answer-2": "size()",
+  "answer-3": "getLength()",
+  "answer-4": "length",
+  "right-answer": "length"
+},
+{
+  "title": "JS",
+  "question": "What does this refer to in a JavaScript function?",
+  "answer-1": "The global object",
+  "answer-2": "The function itself",
+  "answer-3": "The object that invoked the function",
+  "answer-4": "The window object",
+  "right-answer": "The object that invoked the function"
+},
+{
+  "title": "JS",
+  "question": "Which operator is used to compare both value and type?",
+  "answer-1": "==",
+  "answer-2": "===",
+  "answer-3": "!=",
+  "answer-4": "!==",
+  "right-answer": "==="
+},
+{
+  "title": "JS",
+  "question": "What will console.log(3 + 2 + '7') output?",
+  "answer-1": "12",
+  "answer-2": "57",
+  "answer-3": "NaN",
+  "answer-4": "32",
+  "right-answer": "57"
+},
+{
+  "title": "JS",
+  "question": "How do you access the second element of an array named arr?",
+  "answer-1": "arr[1]",
+  "answer-2": "arr[2]",
+  "answer-3": "arr(1)",
+  "answer-4": "arr.get(1)",
+  "right-answer": "arr[1]"
+},
+{
+  "title": "JS",
+  "question": "What does JSON.parse() do?",
+  "answer-1": "Converts a JavaScript object to a JSON string",
+  "answer-2": "Parses a JSON string and converts it to a JavaScript object",
+  "answer-3": "Converts a JavaScript object to an HTML string",
+  "answer-4": "Parses an HTML string and converts it to a JSON object",
+  "right-answer": "Parses a JSON string and converts it to a JavaScript object"
+},
+{
+  "title": "JS",
+  "question": "Which statement is used to stop a loop in JavaScript?",
+  "answer-1": "exit",
+  "answer-2": "break",
+  "answer-3": "stop",
+  "answer-4": "continue",
+  "right-answer": "break"
+},
+{
+  "title": "JS",
+  "question": "What will console.log(typeof null) output?",
+  "answer-1": "object",
+  "answer-2": "null",
+  "answer-3": "undefined",
+  "answer-4": "number",
+  "right-answer": "object"
+},
+{
+  "title": "JS",
+  "question": "How do you define an object in JavaScript?",
+  "answer-1": "let obj = { key: 'value' };",
+  "answer-2": "let obj = (key: 'value');",
+  "answer-3": "let obj = [key: 'value'];",
+  "answer-4": "let obj = &lt;key: 'value'&gt;;",
+  "right-answer": "let obj = { key: 'value' };"
+},
+{
+  "title": "JS",
+  "question": "Which keyword is used to create a new instance of an object?",
+  "answer-1": "new",
+  "answer-2": "make",
+  "answer-3": "create",
+  "answer-4": "instantiate",
+  "right-answer": "new"
+},
+{
+  "title": "JS",
+  "question": "What will console.log(1 + '1') output?",
+  "answer-1": "2",
+  "answer-2": "11",
+  "answer-3": "NaN",
+  "answer-4": "undefined",
+  "right-answer": "11"
+},
+{
+  "title": "JS",
+  "question": "Which function is used to round a number to the nearest integer?",
+  "answer-1": "Math.round()",
+  "answer-2": "Math.floor()",
+  "answer-3": "Math.ceil()",
+  "answer-4": "Math.trunc()",
+  "right-answer": "Math.round()"
+},
+{
+  "title": "JS",
+  "question": "What will console.log([] + {}) output?",
+  "answer-1": "[object Object]",
+  "answer-2": "{}",
+  "answer-3": "[]",
+  "answer-4": "NaN",
+  "right-answer": "[object Object]"
+},
+{
+  "title": "JS",
+  "question": "How do you check if a variable is an array in JavaScript?",
+  "answer-1": "Array.isArray(variable)",
+  "answer-2": "variable.isArray()",
+  "answer-3": "variable instanceof Array",
+  "answer-4": "Both A and C",
+  "right-answer": "Both A and C"
+},
+{
+  "title": "JS",
+  "question": "What does document.querySelector('.className') return?",
+  "answer-1": "The first element with the specified class",
+  "answer-2": "All elements with the specified class",
+  "answer-3": "The innerHTML of the element with the specified class",
+  "answer-4": "The id attribute of the element with the specified class",
+  "right-answer": "The first element with the specified class"
+},
+{
+  "title": "JS",
+  "question": "Which function is used to remove whitespace from both ends of a string?",
+  "answer-1": "trim()",
+  "answer-2": "strip()",
+  "answer-3": "slice()",
+  "answer-4": "split()",
+  "right-answer": "trim()"
+},
+{
+  "title": "JS",
+  "question": "What does undefined == null return?",
+  "answer-1": "true",
+  "answer-2": "false",
+  "answer-3": "undefined",
+  "answer-4": "null",
+  "right-answer": "true"
+},
+{
+  "title": "JS",
+  "question": "How do you access the value of a property named 'name' from an object person?",
+  "answer-1": "person.name",
+  "answer-2": "person['name']",
+  "answer-3": "Both A and B",
+  "answer-4": "person.get('name')",
+  "right-answer": "Both A and B"
+},
+{
+  "title": "JS",
+  "question": "What is the purpose of the debugger statement in JavaScript?",
+  "answer-1": "To terminate a loop",
+  "answer-2": "To pause code execution for debugging",
+  "answer-3": "To define a variable",
+  "answer-4": "To handle errors",
+  "right-answer": "To pause code execution for debugging"
+},
+{
+  "title": "JS",
+  "question": "Which method is used to find the index of an element in an array?",
+  "answer-1": "indexOf()",
+  "answer-2": "findIndex()",
+  "answer-3": "search()",
+  "answer-4": "getIndex()",
+  "right-answer": "indexOf()"
+}
+]

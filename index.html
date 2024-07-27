@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Learn JavaScript</title>
+    <link rel="stylesheet" href="Main.css" />
+  </head>
+  <body>
+    <div class="quiz-container">
+      <div class="header">this Simple Quiz For HTML & CSS & JavaScript</div>
+      <div class="selected-quiz">
+        The Quiz For :
+        <select name="title" id="title">
+          <option>Select Category</option>
+          <option value="HTML">HTML</option>
+          <option value="CSS">CSS</option>
+          <option value="JS">JavaScript</option>
+        </select>
+        , The Level Is :
+        <select name="lvl" id="lvl">
+          <option>Select Level</option>
+          <option value="Easy">Easy</option>
+          <option value="Normal">Normal</option>
+          <option value="Hard">Hard</option>
+        </select>
+      </div>
+      <div class="category">Category : <span> </span></div>
+      <div class="count">
+        Questions Count For <span class="lvlChossen"></span> :
+        <span class="countOfQuestion"></span>
+      </div>
+      <div class="question-area"></div>
+      <div class="answers-area"></div>
+      <div class="submit">Submit Answer</div>
+      <div class="bullets">
+        <div class="spans-bullets"></div>
+        <div class="countdown"></div>
+      </div>
+      <div class="result"></div>
+    </div>
+    <script src="Main.js"></script>
+  </body>
+</html>
